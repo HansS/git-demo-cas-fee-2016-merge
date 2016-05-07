@@ -1,2 +1,1 @@
-hello b!
-changed
+fixed hello b!
